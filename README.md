@@ -32,12 +32,16 @@ Using ruby 2.4.0 and RSpec
 
 To install the unique dependency: `gem install rspec`
 
-# running tests
-$ rspec
+running tests
+---------
+`$ rspec`
 
-# Using the Command Line
+Using the Command Line
+----------------------
 From the root directory of this project on your OS command line:
-$ ruby soccer_ranking.rb --help
 
-# Author
+`$ ruby soccer_ranking.rb --help`
+
+Author
+------
 Tailor Fontela (February 2017)
